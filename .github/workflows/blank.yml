@@ -1,0 +1,9 @@
+cd /ATIVIDADE/.github/workflows/blank.yml
+
+mkdir ATIVIDADE
+cd ATIVIDADE
+
+git init
+
+git config --global user.name "angelo"
+git config --global user.email "00001112474535sp@al.educacao.sp.gov.br"
